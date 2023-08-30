@@ -18,7 +18,7 @@ cargo run
 Ref : https://doc.rust-lang.org/book/
 
 
-## Summary
+## Summary  (by chatgpt)
 
 This code snippet implements a basic worker pool in Rust, which facilitates efficient task execution through parallel worker threads. Here's a concise overview:
 
